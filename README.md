@@ -10,7 +10,7 @@ Dataset: Bank Marketing;
 Pandas, Numpy, Sklearn
 
 - Funções criadas:
-codificaCat(): usada para codificar os dados categóricos
+codificaCat(): usada para codificar os dados categóricos; 
 preparaDados(): usada para separar a base entre dados e rótulos
 
 - Questão 1:
