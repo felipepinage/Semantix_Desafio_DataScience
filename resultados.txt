@@ -1,0 +1,24 @@
+QUESTÃO 1.
+Profissao e tipo de emprestimo:
+             housing
+job                 
+blue-collar     7048
+
+QUESTÃO 2.
+Em uma relação entre número de contatos e sucesso da campanha. 
+Quanto menos contatos nesta campanha, mais chances de sucesso.
+
+QUESTÃO 3.
+Para otimizar a adesão é indicado um número médio de 2.0 ligações, 
+e um número máximo de 32.0 ligações
+
+QUESTÃO 4.
+Os resultados da campanha anterior NÃO têm relevância nos resultados da campanha atual
+
+QUESTÃO 5.
+O fator determinante para o banco exigir um seguro de crédito
+é estar em débito com o banco (default) que está primariamente relacionado a: ['loan']
+
+QUESTÃO 6.
+As características mais proeminentes de quem possui um empréstimo
+imobiliário são ['contact', 'poutcome', 'y']
