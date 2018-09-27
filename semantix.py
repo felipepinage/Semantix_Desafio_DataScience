@@ -16,7 +16,7 @@ def codificaCat():
         labelsRating = labelEncoderRating.transform(ratingList)
         df[cat[i]] = pd.Series(labelsRating)
 
-# PREPARAÇÃO: SEPARA OS DADOS DOS RÓTULO E PERMUTA AS INSTÂNCIAS
+# PREPARAÇÃO: SEPARA OS DADOS DOS RÓTULOS
 def preparaDados(dataframe, nomeLabel):
     # PREPARANDO
     headers = list(dataframe)
